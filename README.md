@@ -2,7 +2,7 @@
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=olcror&show_icons=true&theme=transparent&hide="/>
 
-  ### 🐹 olcror's GITHUB 🐹
+  ### 🐹 olcror's GitHub 🐹
 
  <a href="https://github.com/olcror"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folcror&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/olcror"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=olcror"/></a>
  <a href="https://olcror.tistory.com/"><img src="https://img.shields.io/badge/TISTORY BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a><br>
