@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=olcror%20GitHub&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36
 
-Daa\n
+Daa
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -8,6 +8,7 @@ Daa\n
 
 Studying
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/>
 
 
 <!--
