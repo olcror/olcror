@@ -22,7 +22,8 @@
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>&nbsp
 </div>
-
+</div>
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olcror)](https://github.com/olcror/github-readme-stats)
 
 
