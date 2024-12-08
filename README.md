@@ -25,7 +25,7 @@
 
 ---
 
-<h3 align="center"> Daa</h3>
+<h3 align="center"> Contact</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>&nbsp
