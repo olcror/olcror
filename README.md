@@ -17,16 +17,11 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
 </div>
 
-
-
-Studying
-
-
-
-Tools
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
-
+<h3 align="center">Tools</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>&nbsp
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olcror)](https://github.com/olcror/github-readme-stats)
 
