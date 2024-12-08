@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=olcror's%20GitHub&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36
+
 
 
 <div align="center">
-  <img width="800px" src="https://github.com/olcror/olcror/blob/master/logo_unscreen.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=olcror's%20GitHub&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
