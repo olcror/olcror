@@ -1,3 +1,11 @@
+<br>
+
+<div align="center>
+
+&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjinueng)](https://solved.ac/jjinueng/)
+
+---
+
 <div align="center">
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=olcror&show_icons=true&theme=transparent&hide="/>
