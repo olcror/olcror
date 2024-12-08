@@ -25,13 +25,6 @@
 
 ---
 
-<h3 align="center"> Contact</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
-</div>
-
 <h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white"/>&nbsp
@@ -42,6 +35,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>&nbsp
+</div>
+
+<h3 align="center"> Contact</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
 </div>
 </div>
 
