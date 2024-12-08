@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=olcror%GitHub&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=olcror%20GitHub&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36
 
 <!--
 **olcror/olcror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
