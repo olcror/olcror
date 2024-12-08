@@ -13,7 +13,9 @@ Studying
 Tools
 <img src="https://img.shields.io/badge/VisualStudioCode-3776AB?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olcror)](https://github.com/olcror/github-readme-stats)
 
 
 <!--
