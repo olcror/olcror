@@ -15,7 +15,7 @@
 
 <div align="center">
   
-<sub>** Training Backend Developer **</sub> <sub><sub>(November 2024 ~)</sub></sub>
+<sub>**Training Backend Developer**</sub> <sub><sub>(November 2024 ~)</sub></sub>
 
  <br>
  <br>
